@@ -28,8 +28,8 @@ Step 7: Save and run the application.
  ```
 /*
 Program to create an Option Menu
-Developed by: RAGUL VK
-RegisterNumber: 212221240043
+Developed by: Easwar J
+RegisterNumber: 212221230024
 */
 ```
 
